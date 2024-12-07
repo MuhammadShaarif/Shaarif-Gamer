@@ -239,7 +239,7 @@ client.distube
                     },
                     author: {
                         name: 'Song added sucessfully', 
-                        url: 'https://discord.gg/xQF9f9yUEM',
+                        url: 'https://discord.gg/vHaUqqWWfQ',
                         icon_url: musicIcons.correctIcon 
                     },
                     timestamp: new Date().toISOString() 
